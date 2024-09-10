@@ -3,4 +3,4 @@
 *orgen*
 ---
 {X}(https://www.X.com)
-![alt text] (richy.png)
+![alt text](richy.png)
