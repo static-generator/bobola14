@@ -3,4 +3,4 @@
 *orgen*
 ---
 {X}(https://www.X.com)
-![alt text] (https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7bced49-73a3-43c1-b3ce-fe419a596a72/dhbge8t-f6c77a84-3286-4134-9fca-67f26bf5c8ec.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3YmNlZDQ5LTczYTMtNDNjMS1iM2NlLWZlNDE5YTU5NmE3MlwvZGhiZ2U4dC1mNmM3N2E4NC0zMjg2LTQxMzQtOWZjYS02N2YyNmJmNWM4ZWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.42s7_wO3EGnDMRtnk0vWsI6Dcr_e5iGCVnycagHPMW)
+![alt text] (richy.png)
